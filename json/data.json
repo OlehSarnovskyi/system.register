@@ -1,0 +1,23 @@
+[
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": "2023",
+    "color": "Black",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-bmw-x3-m40i-108-1650211641.jpg?crop=0.615xw:0.462xh;0.173xw,0.416xh&resize=1200:*"
+  },
+  {
+    "brand": "Mercedes-benz",
+    "model": "GLA",
+    "year": "2023",
+    "color": "Gray",
+    "image": "https://img.autobytel.com/2023/mercedes-benz/gla-250/2-550-oem-exterior-front1300-101622.jpg"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q8",
+    "year": "2023",
+    "color": "Darkblue",
+    "image": "https://images.autodaily.com.au/2022/11/2023-Audi-Q8-e-tron-facelift-2.jpg"
+  }
+]
